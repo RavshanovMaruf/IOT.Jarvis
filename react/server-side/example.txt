@@ -1,0 +1,119 @@
+humidity: 62.00 
+temperature: 27.60 
+waterLevel: 0
+danger: true
+
+humidity: 62.00 
+temperature: 27.60 
+waterLevel: 0
+danger: true
+
+humidity: 63.00
+temperature: 27.60 
+waterLevel: 0
+danger: true
+
+humidity: 63.00 
+temperature: 27.60 
+waterLevel: 0
+danger: true
+
+humidity: 64.00 
+temperature: 27.60 
+waterLevel: 0
+danger: true
+
+humidity: 64.00 
+temperature: 27.60 
+waterLevel: 0
+danger: true
+
+humidity: 64.00 
+temperature: 27.70 
+waterLevel: 8
+danger: true
+
+humidity: 64.00 
+temperature: 27.70 
+waterLevel: 65
+danger: false
+
+humidity: 64.00 
+temperature: 27.70 
+waterLevel: 68
+danger: false
+
+humidity: 64.00 
+temperature: 27.70 
+waterLevel: 69
+danger: false
+
+humidity: 64.00 
+temperature: 27.70 
+waterLevel: 68
+danger: false
+
+humidity: 64.00 
+temperature: 27.70 
+waterLevel: 68
+danger: false
+
+humidity: 63.00 
+temperature: 27.70 
+waterLevel: 68
+danger: false
+
+humidity: 63.00 
+temperature: 27.70 
+waterLevel: 68
+danger: false
+
+humidity: 62.00 
+temperature: 27.60 
+waterLevel: 67
+danger: false
+
+humidity: 62.00 
+temperature: 27.60 
+waterLevel: 67
+danger: false
+
+humidity: 62.00 
+temperature: 27.70 
+waterLevel: 66
+danger: false
+
+humidity: 62.00 
+temperature: 27.70 
+waterLevel: 65
+danger: false
+
+humidity: 61.00 
+temperature: 27.60 
+waterLevel: 65
+danger: false
+
+humidity: 61.00 
+temperature: 27.60 
+waterLevel: 56
+danger: false
+
+humidity: 61.00 
+temperature: 27.60 
+waterLevel: 62
+danger: false
+
+humidity: 61.00 
+temperature: 27.60 
+waterLevel: 56
+danger: false
+
+humidity: 61.00 
+temperature: 27.70 
+waterLevel: 56
+danger: false
+
+humidity: 61.00 
+temperature: 27.70 
+waterLevel: 56
+danger: false

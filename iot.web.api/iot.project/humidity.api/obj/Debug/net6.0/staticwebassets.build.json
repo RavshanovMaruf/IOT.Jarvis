@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZUFWxqVIsgfVDfYw3wn0R70p2mj9aeBA2MgAv133g7k=",
+  "Source": "humidity.api",
+  "BasePath": "_content/humidity.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
