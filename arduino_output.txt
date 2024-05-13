@@ -1,0 +1,27 @@
+
+Humidity = 60.00 Temperature = 27.80 Water Level = 0
+Humidity = 60.00 Temperature = 27.80 Water Level = 0
+Humidity = 62.00 Temperature = 27.90 Water Level = 0
+Humidity = 62.00 Temperature = 27.90 Water Level = 0
+Humidity = 62.00 Temperature = 27.80 Water Level = 0
+Humidity = 62.00 Temperature = 27.80 Water Level = 0
+Humidity = 62.00 Temperature = 27.80 Water Level = 0
+Humidity = 62.00 Temperature = 27.80 Water Level = 0
+Humidity = 62.00 Temperature = 27.80 Water Level = 37
+Humidity = 62.00 Temperature = 27.80 Water Level = 44
+Humidity = 61.00 Temperature = 27.90 Water Level = 46
+Humidity = 61.00 Temperature = 27.90 Water Level = 48
+Humidity = 61.00 Temperature = 27.90 Water Level = 52
+Humidity = 61.00 Temperature = 27.90 Water Level = 53
+Humidity = 61.00 Temperature = 27.90 Water Level = 52
+Humidity = 61.00 Temperature = 27.90 Water Level = 52
+Humidity = 61.00 Temperature = 27.90 Water Level = 52
+Humidity = 61.00 Temperature = 27.90 Water Level = 32
+Humidity = 60.00 Temperature = 27.90 Water Level = 50
+Humidity = 60.00 Temperature = 27.90 Water Level = 53
+Humidity = 60.00 Temperature = 27.90 Water Level = 53
+Humidity = 60.00 Temperature = 27.90 Water Level = 53
+Humidity = 61.00 Temperature = 27.90 Water Level = 54
+Humidity = 61.00 Temperature = 27.90 Water Level = 54
+Humidity = 61.00 Temperature = 27.90 Water Level = 54
+Humidity = 61.00 Temperature = 27.90 Water Level = 53
